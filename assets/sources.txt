@@ -1,0 +1,11 @@
+Fox :
+<a href="https://www.flaticon.com/free-icons/fox" title="fox icons">Fox icons created by Freepik - Flaticon</a>
+
+Wolf :
+<a href="https://www.flaticon.com/free-icons/wolf" title="wolf icons">Wolf icons created by Freepik - Flaticon</a>
+
+Rabbit :
+<a href="https://www.flaticon.com/free-icons/rabbit" title="rabbit icons">Rabbit icons created by Freepik - Flaticon</a>
+
+Tree :
+<a href="https://www.flaticon.com/free-icons/tree" title="tree icons">Tree icons created by Freepik - Flaticon</a>
